@@ -1,0 +1,9 @@
+PyQt5
+litellm
+langchain
+langchain_litellm
+langchain_openai
+langchain_community
+langchain_text_splitters
+tiktoken
+markdown
